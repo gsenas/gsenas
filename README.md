@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @gsenas
 - 👀 I’m interested in web and mobile development
-- 🌱 I’m currently learning machine learning (no pun intended)
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 Reach me via DM
